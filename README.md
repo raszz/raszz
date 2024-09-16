@@ -22,7 +22,7 @@ Confira meus projetos e contribuições! Sinta-se à vontade para explorar e con
 
 ## 📈 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=raszz&show_icons=true&theme=dark)
 
 ## 📝 Últimos Posts 
 Confira meus últimos posts e artigos.
